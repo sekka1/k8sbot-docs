@@ -1,5 +1,6 @@
 <nav role="navigation" aria-label="Main navigation">
   <ul class="navigation-list">
+    <a href="https://managedkube.com">ManagedKube.com Home</a>
     {% assign pages_list = site.html_pages | sort:"nav_order" %}
     {% for node in pages_list %}
       {% unless node.nav_exclude %}

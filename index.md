@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Introduction to k8sbot
 nav_order: 1
 description: "k8sbot Documentation"
 permalink: /
