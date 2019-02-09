@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Ingress
-nav_order: 4
+title: Pod
+nav_order: 3
 has_children: true
-permalink: /docs/ingress
+permalink: /docs/pod
 ---
 
-# Ingress
+# Pod
 
 
 {: .fs-6 .fw-300 }
