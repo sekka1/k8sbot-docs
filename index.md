@@ -8,6 +8,8 @@ permalink: /
 
 what should we put here?
 
+maybe a link to our home page?
+
 # Focus on writing good documentation
 {: .fs-9 }
 

@@ -3,7 +3,7 @@ layout: default
 title: Home
 nav_order: 1
 description: "k8sbot Documentation"
-permalink: /
+permalink: /foo
 nav_exclude: true
 ---
 
