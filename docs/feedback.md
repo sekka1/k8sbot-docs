@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Send Us Feedback from the bot
+title: Send Us Feedback
 nav_order: 3
 ---
 # Feedback
