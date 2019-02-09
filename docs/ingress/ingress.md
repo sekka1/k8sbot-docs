@@ -8,5 +8,4 @@ permalink: /docs/ingress
 
 # Ingress
 
-
 {: .fs-6 .fw-300 }
