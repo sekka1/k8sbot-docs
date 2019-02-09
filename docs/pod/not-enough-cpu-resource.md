@@ -5,7 +5,7 @@ parent: Pod
 nav_order: 2
 ---
 # Not enough CPU resource
-There can be many reason why a pod is in a Pending state.  One reason is that
+There can be many reasons why a pod is in a Pending state.  One reason is that
 the `pod` has requested more CPU than there is available in the cluster.
 
 # How k8sbot can help
