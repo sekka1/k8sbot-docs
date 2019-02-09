@@ -10,6 +10,10 @@ what should we put here?
 
 maybe a link to our home page?
 
+The install instructions here also with the slack button?
+
+I think a picture of the workflow introducing this bot would be nice also
+
 # Focus on writing good documentation
 {: .fs-9 }
 
