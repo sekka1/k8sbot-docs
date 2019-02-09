@@ -4,7 +4,7 @@ title: No registry secret for a private image
 parent: Pod
 nav_order: 2
 ---
-# Not enough CPU resource
+# No registry secret for a private image
 There can be many reason why a pod is in a Pending state.  One reason is that
 the `pod` is using a private Docker image and it is not able to pull this image
 from the registry.
