@@ -4,9 +4,8 @@ title: Home
 nav_order: 1
 description: "k8sbot Documentation"
 permalink: /
+nav_exclude: true
 ---
-
-what should we put here?
 
 # Focus on writing good documentation
 {: .fs-9 }

@@ -4,6 +4,12 @@ title: General Usage
 nav_order: 2
 ---
 
+# Command:
+```
+@k8sbot help
+```
+
+# Response: 
 ```
 I can help you out with various items on Kubernetes.  I only have read permission on your cluster which means I can only read items and cannot change anything on the cluster.  I can initially perform most "kubectl get" commands.
 
