@@ -1,6 +1,6 @@
 ---
 layout: default
-title: General Usage
+title: Get help
 nav_order: 20
 ---
 
