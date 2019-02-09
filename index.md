@@ -14,6 +14,9 @@ The install instructions here also with the slack button?
 
 I think a picture of the workflow introducing this bot would be nice also
 
+
+![](/assets/images/Workflow-desktop.png)
+
 # Focus on writing good documentation
 {: .fs-9 }
 
