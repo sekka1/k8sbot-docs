@@ -4,7 +4,7 @@ title: Trace - Service port not matching pod port
 parent: Ingress
 nav_order: 2
 ---
-# Trace - Service port not matching any pod label selectors
+# Trace - Service port not matching pod port
 There can be many things wrong with an ingress and why it does not work.  One
 problem can be that the `service` label selecting the `pod` is incorrect or is not
 able to find any pod(s) with those labels current.  This means that there are no
