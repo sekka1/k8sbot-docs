@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Install
-nav_order: 3
+title: How to install
+nav_order: 10
 ---
 # Install k8sbot into your Slack workspace
 

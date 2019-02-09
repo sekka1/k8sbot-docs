@@ -1,7 +1,7 @@
 ---
 layout: default
 title: General Usage
-nav_order: 2
+nav_order: 20
 ---
 
 # Command:
@@ -9,7 +9,7 @@ nav_order: 2
 @k8sbot help
 ```
 
-# Response: 
+# Response:
 ```
 I can help you out with various items on Kubernetes.  I only have read permission on your cluster which means I can only read items and cannot change anything on the cluster.  I can initially perform most "kubectl get" commands.
 

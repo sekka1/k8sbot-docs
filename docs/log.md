@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Logs
-nav_order: 5
+nav_order: 80
 has_children: false
 permalink: /docs/logs
 ---

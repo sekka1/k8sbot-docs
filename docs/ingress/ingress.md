@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ingress
-nav_order: 4
+nav_order: 70
 has_children: true
 permalink: /docs/ingress
 ---

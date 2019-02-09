@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Set Cluster
-nav_order: 5
+nav_order: 40
 has_children: false
 permalink: /docs/set-cluster
 ---

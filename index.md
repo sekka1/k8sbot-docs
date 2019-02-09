@@ -1,95 +1,24 @@
 ---
 layout: default
-title: Introduction to k8sbot
+title: What is k8sbot
 nav_order: 1
 description: "k8sbot Documentation"
 permalink: /
 ---
 
-what should we put here?
-
-maybe a link to our home page?
-
-The install instructions here also with the slack button?
-
-I think a picture of the workflow introducing this bot would be nice also
-
-
-![](/assets/images/Workflow-desktop.png)
-
-# Focus on writing good documentation
+# What is k8sbot?
 {: .fs-9 }
-
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+k8sBot is a next-gen virtual assistant that will help you troubleshoot your applications running on k8s clusters.
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+Our agent runs in your k8s cluster to gather information from the multiple Kubernetes resources necessary to diagnose a particular issue. Then, our Slack chatbot pulls out the relevant nuggets of information so you don't have to sift through lines and lines of kubectl cli output.
 
----
+# What does k8sBot do?
+K8sBot makes Kubernetes easier to use. We know it’s complex and you need to gather multiple Kubernetes resources to diagnose issues. For example, to get an ingress fully working, you have to first understand how it links to a service and a pod.
 
-## Getting started
 
-### Dependencies
+K8sBot is for infrastructure engineers and for developers who aren’t focused on Kubernetes every day. We’ll help you avoid frustrating troubleshooting time and find those configuration issues instantaneously.
 
-Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler.
+# How it works:
 
-### Quick start: Use as a GitHub Pages remote theme
-
-1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
-```yaml
-remote_theme: pmarsceill/just-the-docs
-```
-<small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [See an example repository](https://github.com/pmarsceill/jtd-remote)</small>
-
-### Local installation: Use the gem-based theme
-
-1. Install the Ruby Gem
-```bash
-$ gem install just-the-docs
-```
-```yaml
-# .. or add it to your your Jekyll site’s Gemfile
-gem "just-the-docs"
-```
-2. Add Just the Docs to your Jekyll site’s `_config.yml`
-```yaml
-theme: "just-the-docs"
-```
-3. _Optional:_ Initialize search data (creates `search-data.json`)
-```bash
-$ bundle exec just-the-docs rake search:init
-```
-3. Run you local Jekyll server
-```bash
-$ jekyll serve
-```
-```bash
-# .. or if you're using a Gemfile (bundler)
-$ bundle exec jekyll serve
-```
-4. Point your web browser to [http://localhost:4000](http://localhost:4000)
-
-### Configure Just the Docs
-
-- [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
-
----
-
-## About the project
-
-Just the Docs is &copy; 2017-2019 by [Patrick Marsceill](http://patrickmarsceill.com).
-
-### License
-
-Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
-
-### Contributing
-
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/pmarsceill/just-the-docs#contributing).
-
-### Code of Conduct
-
-Just the Docs is committed to fostering a welcoming community.
-
-[View our Code of Conduct](https://github.com/pmarsceill/just-the-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
+![](/assets/images/Workflow-desktop.png)
