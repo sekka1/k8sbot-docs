@@ -1,6 +1,6 @@
 ---
 layout: default
-title: No registry secret for a private image
+title: Unable to pull private image
 parent: Pod
 nav_order: 2
 ---
