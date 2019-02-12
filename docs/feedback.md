@@ -5,8 +5,7 @@ nav_order: 30
 ---
 # Feedback
 
-We are always looking for feedback if our k8sbot has given you helpful information.
-At anytime you can send us feedback via telling k8sbot:
+We appreciate your feedback, positive or negative! It helps us build a better product. Please share feedback with us through k8sbot:
 
 ```
 @k8sbot feedback <your feedback here>
