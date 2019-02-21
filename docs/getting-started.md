@@ -11,6 +11,13 @@ We have big plans for what k8sBot will do in the future and are continually buil
    * Not enough CPU, memory, or both
    * No registry secret for a private image
    * Unable to pull private image
+   * In a CrashLoopBackOff state
+   * Why a pod might be in an Evicted state
 2. Why is my ingress not working?
    * Service port not matching pod port
    * Incorrect service label selected
+   * No pod endpoints available to send traffic to
+3. Why jobs are failing?
+   * Look into the job states
+5. Logs
+   * Easily get log outputs into Slack
