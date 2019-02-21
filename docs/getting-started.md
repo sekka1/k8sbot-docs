@@ -22,7 +22,8 @@ We have big plans for what k8sBot will do in the future and are continually buil
 5. Logs
    * Easily get log outputs into Slack
 
-Please send us any feedback that you have via telling k8sbot:
+
+## Please send us any feedback that you have via telling k8sbot:
 ```@k8sbot feedback <your feedback here>```
 
 Don't forget to include your contact information and contextual information about your feedback (we do not keep any information from the bot).
