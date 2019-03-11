@@ -8,7 +8,7 @@ permalink: /docs/namespace
 
 # Namespace
 
-You can ask k8sbot to get and set the Kubernetes namespace you want to work work.
+You can ask k8sbot to get and set the Kubernetes namespace where you want to work.
 
 # Get Namespace
 
