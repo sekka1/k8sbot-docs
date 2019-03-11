@@ -8,7 +8,7 @@ permalink: /docs/set-cluster
 
 # Set Cluster
 
-You can ask k8sbot to set the Kubernetes cluster you want to work work.
+You can ask k8sbot to set the Kubernetes cluster that you want to work with.
 
 # Usage:
 
