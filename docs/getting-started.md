@@ -22,6 +22,12 @@ We have big plans for what k8sBot will do in the future and are continually buil
 5. Logs
    * Easily get log outputs into Slack
 
+## Just installed k8sBot? Try this!
+  
+1. Set the cluster '@k8sbot set cluster <cluster name>'
+2. Set the namespace '@k8sbot set namespace <namespace name>'
+3. List your pods with '@k8sbot get pod'
+4. Use '@k8sbot logs <pod name>' to get the logs for one of your pods, right in Slack
 
 ## Please send us any feedback that you have via telling k8sbot:
 ```
