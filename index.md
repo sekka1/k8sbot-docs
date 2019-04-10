@@ -19,4 +19,4 @@ We’ve heard that Kubernetes is really complex. We want to help teams integrate
 
 # How it works:
 
-![](/assets/images/Workflow-desktop.png)
+![](/assets/images/k8sBot-button.jpg)
