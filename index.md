@@ -19,4 +19,4 @@ We’ve heard that Kubernetes is really complex. We want to help teams integrate
 
 # How it works:
 
-![](https://managedkube.com/assets/images/k8sBot-button.jpg)
+![](/assets/images/k8sBot-button.jpg)
