@@ -17,6 +17,6 @@ Now, you can point and click to retrieve pod status, get pod logs, and get troub
 # Why k8sBot?
 We’ve heard that Kubernetes is really complex. We want to help teams integrate DevOps principles faster and help every team member quickly get up to speed on the most common Kubernetes commands. We’re not a replacement for kubectl - we are an enhancement. Think of us as the automatic transmission for your Kubernetes engine.
 
-# How it works:
+# Anyone can get meaningful Kubernetes information with our easy point-and-click interface:
 
 ![](/assets/images/k8sBot-button.png)
